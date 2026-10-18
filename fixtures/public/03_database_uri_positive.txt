@@ -1,0 +1,2 @@
+# SYNTHETIC_TEST_ONLY
+postgresql://synthetic_user:Q7n3R5@t8Z6@db.example.invalid:5432/synthetic_db

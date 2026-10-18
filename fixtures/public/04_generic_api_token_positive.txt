@@ -1,0 +1,3 @@
+SYNTHETIC_TEST_ONLY
+[api_credentials]
+api_token = INVALID_ONLY_Api7z9_Q2m4W6n8R0t3V5x

@@ -1,0 +1,16 @@
+# Keep the repository restricted to synthetic public fixtures.
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.db
+*.sqlite*
+*.log
+*.pem
+*.key
+work/
+outputs/
+reports/
+*.zip
+*.tar.gz
