@@ -1,3 +1,3 @@
 # SYNTHETIC_TEST_ONLY
-# multi canary 2
-DATABASE_URL=postgresql://multi_user:Q7n3R5@t8Z6@db.example.invalid:5432/multi_db_2
+# multi canary 3
+DATABASE_URL=postgresql://multi_user:Q7n3R5@t8Z6@db.example.invalid:5432/multi_db_3
