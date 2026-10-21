@@ -1,0 +1,3 @@
+# SYNTHETIC_TEST_ONLY
+# latency canary 2026-10-22T00:51Z
+DATABASE_URL=postgresql://latency_user:Q7n3R5@t8Z6@db.example.invalid:5432/latency_db
