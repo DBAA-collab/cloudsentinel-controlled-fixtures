@@ -1,2 +1,2 @@
 # SYNTHETIC_TEST_ONLY
-DATABASE_URL=postgresql://soak:P@ssw0rd_2@db.example.invalid:5432/soak_db_2
+DATABASE_URL=postgresql://soak:P@ssw0rd_3@db.example.invalid:5432/soak_db_3
